@@ -1,0 +1,42 @@
+        *{
+            padding: 0;
+        }
+           .outer{
+            width: 500px;
+            height:400px;
+            margin: 20px auto;
+            border: #000000 1px solid;
+            box-shadow: 0 0 5px 5px gray;
+        }
+        h1{
+            display: block;
+            width: 100px;
+            height: 60px;
+            line-height: 60px;
+            text-align: center;
+            margin: 50px auto; 
+        }
+        #name{
+            display: block;
+            width: 80%;
+            height: 60px;
+            line-height: 60px;
+            font-size: 40px;
+            text-align: center;
+            margin: 50px auto; 
+            border-radius: 15px;
+            outline: none;
+        }
+        p,p>input{
+            display: block;
+            width: 200px;
+            height: 60px;
+            line-height: 60px;
+            font-size: 40px;
+            text-align: center;
+            margin: 50px auto; 
+            border: none;
+            border-radius: 15px;
+            outline: none;
+        }
+      
